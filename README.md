@@ -10,7 +10,7 @@ Built a project on clothing detection
 <img src="https://github.com/Shyam-AI/Vision_final_project/blob/master/images/flow_diagram.png" width="800px" height="auto">
 
 # Sample input image
-<img src="https://github.com/Shyam-AI/Vision_final_project/blob/master/images/inputImage.png" width="800px" height="auto">
+<img src="https://github.com/Shyam-AI/Vision_final_project/blob/master/images/inputImage.jpg" width="800px" height="auto">
 
 # Output input image
-<img src="https://github.com/Shyam-AI/Vision_final_project/blob/master/images/output4.png" width="800px" height="auto">
+<img src="https://github.com/Shyam-AI/Vision_final_project/blob/master/images/output4.jpg" width="800px" height="auto">
